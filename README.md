@@ -1,4 +1,4 @@
-# 🔌 EV Charger Log Analyzer
+# 🔌 EV Charger Log Analyzer https://ev-charger-log-analyzer-h9portrnbxapogmtxtnfxb.streamlit.app/
 
 A Python tool (command line + Streamlit web app) that parses charger-style log files, finds **recurring issues**, highlights **problem chargers** and **peak failure times**, and suggests next actions. Built to practise log analysis and root cause analysis for technical support work.
 
